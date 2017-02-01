@@ -1,0 +1,21 @@
+shares-robot - A simple shares robot
+started Jan 15th, 2013 by Martin Wojtczyk <martin.wojtczyk@gmail.com>
+
+Dependencies
+============
+
+CMake 2.8
+http://www.cmake.org/
+
+PostgreSQL
+http://www.postgresql.org/
+
+
+Build
+=====
+
+mkdir build
+cd build
+cmake ..
+make
+make install
